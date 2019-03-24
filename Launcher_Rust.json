@@ -1,8 +1,8 @@
 {
-	"Title": "Rust Launcher",
+	"Title": "OLD ISLAND",
 	"MainURL": "https://vk.com/old_island_rust/",
 	"UpdateGameURL": "https://forum.alkad.org/threads/2619/",
-	"GameVersion": "2155 (3655724)",
+	"GameVersion": "OLD ISLAND|V1",
 	"GameProcess": "RustClient.exe",
 	"GameExe": "./RustClient.exe", 
 }
