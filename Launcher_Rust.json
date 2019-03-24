@@ -4,5 +4,5 @@
 	"UpdateGameURL": "https://vk.com/old_island_rust/",
 	"GameVersion": "OLD ISLAND|V1",
 	"GameProcess": "RustClient.exe",
-	"GameExe": "./RustClient.exe", 
+	"GameExe": "./1.exe", 
 }
